@@ -17,3 +17,8 @@ This is a basic implementation of a blockchain written in JavaScript. It demonst
 1. Clone the repository:
    ```bash
    git clone <URL>
+   node main.js
+
+## Sources
+1. https://www.youtube.com/watch?v=zVqczFZr124
+2. https://www.youtube.com/watch?v=HneatE69814
